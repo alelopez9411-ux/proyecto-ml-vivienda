@@ -1,0 +1,4 @@
+prueba,estadistico,p_valor,efecto
+ANOVA (todas las categorías),1612.1407358838221,0.0,
+Kruskal-Wallis (todas),6634.562916019402,0.0,
+t de Welch INLAND vs <1H OCEAN,-81.90669041414706,0.0,-1.242656161629428

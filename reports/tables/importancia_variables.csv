@@ -1,0 +1,13 @@
+variable,importancia,std
+latitude,48741.49,990.17
+longitude,47104.22,611.79
+median_income,38326.44,562.46
+population_per_household,17640.08,540.48
+ocean_proximity,15381.03,556.25
+housing_median_age,6384.53,491.35
+rooms_per_household,6290.36,239.98
+bedrooms_per_room,2435.32,203.2
+total_bedrooms,549.7,57.66
+population,225.85,75.72
+households,137.05,22.73
+total_rooms,94.26,61.47

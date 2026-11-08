@@ -1,0 +1,7 @@
+modelo,rmse,mae,r2
+Gradient Boosting (ajustado),44703.145,29232.949,0.848
+Gradient Boosting,46259.529,30579.163,0.837
+Random Forest,49696.295,31885.058,0.812
+Regresión lineal,69127.038,49645.492,0.635
+Ridge,69134.965,49652.143,0.635
+Baseline (media),114485.635,90606.855,-0.0

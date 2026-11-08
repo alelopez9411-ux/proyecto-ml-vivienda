@@ -1,0 +1,34 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     median_house_value   R-squared:                       0.598
+Model:                            OLS   Adj. R-squared:                  0.598
+Method:                 Least Squares   F-statistic:                     3790.
+Date:                Wed, 04 Nov 2026   Prob (F-statistic):               0.00
+Time:                        15:27:15   Log-Likelihood:            -2.5785e+05
+No. Observations:               20433   AIC:                         5.157e+05
+Df Residuals:                   20424   BIC:                         5.158e+05
+Df Model:                           8                                         
+Covariance Type:                  HC3                                         
+==============================================================================================
+                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+const                       5.039e+04   3341.044     15.081      0.000    4.38e+04    5.69e+04
+median_income               3.802e+04    476.012     79.874      0.000    3.71e+04     3.9e+04
+housing_median_age           943.9044     47.657     19.806      0.000     850.498    1037.310
+rooms_per_household          473.5976    613.315      0.772      0.440    -728.478    1675.673
+population_per_household    -348.9034    296.480     -1.177      0.239    -929.994     232.187
+ocean_proximity_INLAND     -7.213e+04   1332.647    -54.127      0.000   -7.47e+04   -6.95e+04
+ocean_proximity_ISLAND      1.838e+05   4.63e+04      3.974      0.000    9.32e+04    2.75e+05
+ocean_proximity_NEAR BAY    1.293e+04   2118.811      6.104      0.000    8780.368    1.71e+04
+ocean_proximity_NEAR OCEAN  1.722e+04   1871.710      9.202      0.000    1.36e+04    2.09e+04
+==============================================================================
+Omnibus:                     4612.197   Durbin-Watson:                   0.816
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            12263.698
+Skew:                           1.215   Prob(JB):                         0.00
+Kurtosis:                       5.915   Cond. No.                     2.05e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+[2] The condition number is large, 2.05e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

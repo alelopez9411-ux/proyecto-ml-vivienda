@@ -1,0 +1,6 @@
+modelo,rmse_cv_media,rmse_cv_std
+Gradient Boosting,46888.2,628.1
+Random Forest,50134.5,620.1
+Ridge,67847.6,1564.2
+Regresión lineal,67848.8,1562.8
+Baseline (media),115618.6,1283.0

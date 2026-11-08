@@ -1,0 +1,12 @@
+variable,pearson_r,p_pearson,spearman_rho,p_spearman
+median_income,0.6884,0.0,0.6771,0.0
+bedrooms_per_room,-0.2559,0.0,-0.3317,0.0
+rooms_per_household,0.1513,0.0,0.2633,0.0
+latitude,-0.1446,0.0,-0.1661,0.0
+total_rooms,0.1333,0.0,0.2051,0.0
+housing_median_age,0.1064,0.0,0.0754,0.0
+households,0.0649,0.0,0.1116,0.0
+total_bedrooms,0.0497,0.0,0.0863,0.0
+longitude,-0.0454,0.0,-0.0697,0.0
+population,-0.0253,0.0003,0.0029,0.6813
+population_per_household,-0.0236,0.0007,-0.256,0.0
